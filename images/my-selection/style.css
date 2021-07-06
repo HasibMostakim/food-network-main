@@ -1,10 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-h1{
-    font-size: 50px;
+h1{font-size: 55px;
     font-weight: 900;
 }
+    
 h2{
     font-size: 40px;
     color: rgb(48, 30, 30);
@@ -23,7 +23,7 @@ h3{ font-size: 30px;
 .width-half img{
     width: 80%;
 }
-#orange{
+#b11126{
     color: #b11126;
     font-family: 'Poppins', sans-serif;
 }
@@ -56,9 +56,9 @@ h3{ font-size: 30px;
 }
 .one-third{
     width: 90%;
-    margin-left: 4%;
-    margin-right: 1%;
-    box-shadow: 10px 10px 40px gray;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 40px rgb(98, 97, 97);
     padding: 20px;
     border-radius: 20px;
 }
@@ -67,9 +67,9 @@ h3{ font-size: 30px;
     display: flex;
     box-shadow: 10px 10px 40px;
     padding: 20px;
-    margin-left: 4%;
-    margin-right: 1%;
-    margin-top: 50px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 80px;
     border-radius: 20px;
 
 }
@@ -81,11 +81,19 @@ h3{ font-size: 30px;
 }
 .footer-text{
     text-align: center;
-    margin-top: 40px;
+    margin-top: 80px;
     background-color: rgb(41, 41, 41);
     background-size: 100%;
+    padding-top: 5px;
+    padding-bottom: 50px;
     color: white;
+    
 }
 .gold-color{
+    font-family: 'Poppins', sans-serif;
     color: goldenrod;
+}
+#gray-color{
+    font-family: 'Poppins', sans-serif;
+    color: gray;
 }
